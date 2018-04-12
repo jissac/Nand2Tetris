@@ -1,2 +1,3 @@
 # Nand2Tetris
-Building a computer from first principles
+Build a computer from first principles. Compilation of my work from the course.    
+http://nand2tetris.org/
